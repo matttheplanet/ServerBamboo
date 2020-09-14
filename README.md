@@ -20,7 +20,7 @@ Make sure to update the bamboo.conf file with any static IPs, ports or etc. that
 
 ```bash
 cd ./ServerBamboo
-sudo ./ServerBamboo.sh
+sudo ./server-bamboo.sh
 ```
 Select your menu option
 
